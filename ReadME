@@ -1,0 +1,15 @@
+Super Scarlet Universe
+Malcolm Keith & Ralph Renz Castillo
+
+Using player controller, user will navigate 5 different and uniqely built levels equipped with its own obstacles and enemies
+Player will collect coins and power ups along the way in an attempt to reach the final boss on the final level taking place in the Rutgers 
+fooball stadium. Player must collect all four diamonds on each level before being able to proceed to the next level. 
+
+Assets include:
+media from - https://www.assetstore.unity3d.com/en/
+backgrounds from - https://www.google.com/imghp?hl=en&tab=wi&authuser=0 & https://opengameart.org/content/static-2d-backgrounds
+other resources from the 2d source folder provided by the professor
+
+Scripts provided by unity
+Scripts also provided by https://unity3d.com/learn/tutorials/topics/2d-game-creation/player-controller-script
+
